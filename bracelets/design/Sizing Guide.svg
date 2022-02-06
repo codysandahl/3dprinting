@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (1:1.1+202109281949+c3084ef5ed)"
+   sodipodi:docname="Sizing Guide.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="1.8116735"
+     inkscape:cx="239.83351"
+     inkscape:cy="957.95408"
+     inkscape:window-width="1864"
+     inkscape:window-height="1016"
+     inkscape:window-x="56"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="DotM"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="DotM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4) translate(7.4, 1)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
+         id="path75721" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="DotS"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="DotS"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.2) translate(7.4, 1)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
+         id="path75724" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="DotL"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="DotL"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) translate(7.4, 1)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
+         id="path75718" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect20801"
+       style="fill:#ff0000;fill-opacity:1;stroke-width:30.6361;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 163.06641 887.36719 L 163.06641 909.96289 L 233.52148 909.96289 L 233.52148 887.36719 L 163.06641 887.36719 z M 204.32422 892.71875 C 205.45443 892.71875 206.34245 893.02344 206.98828 893.63281 C 207.63411 894.24219 207.95703 895 207.95703 895.90625 C 207.95703 896.42187 207.86328 896.91406 207.67578 897.38281 C 207.49349 897.84635 207.20182 898.33333 206.80078 898.84375 C 206.53516 899.18229 206.05599 899.66927 205.36328 900.30469 C 204.67057 900.9401 204.23047 901.36198 204.04297 901.57031 C 203.86068 901.77865 203.71224 901.98177 203.59766 902.17969 L 207.95703 902.17969 L 207.95703 904.21875 L 200.26172 904.21875 C 200.34505 903.44792 200.59505 902.71875 201.01172 902.03125 C 201.42839 901.33854 202.2513 900.42187 203.48047 899.28125 C 204.47005 898.35938 205.07682 897.73437 205.30078 897.40625 C 205.60286 896.95313 205.75391 896.50521 205.75391 896.0625 C 205.75391 895.57292 205.62109 895.19792 205.35547 894.9375 C 205.09505 894.67188 204.73307 894.53906 204.26953 894.53906 C 203.8112 894.53906 203.44661 894.67708 203.17578 894.95312 C 202.90495 895.22917 202.7487 895.6875 202.70703 896.32812 L 200.51953 896.10938 C 200.64974 894.90104 201.05859 894.03385 201.74609 893.50781 C 202.43359 892.98177 203.29297 892.71875 204.32422 892.71875 z M 213.27734 892.71875 L 215.05859 892.71875 L 215.05859 904.21875 L 212.86328 904.21875 L 212.86328 895.94531 C 212.0612 896.69531 211.11588 897.25 210.02734 897.60938 L 210.02734 895.61719 C 210.60026 895.42969 211.22266 895.07552 211.89453 894.55469 C 212.56641 894.02865 213.02734 893.41667 213.27734 892.71875 z M 222.05078 892.71875 C 223.16016 892.71875 224.02734 893.11458 224.65234 893.90625 C 225.39713 894.84375 225.76953 896.39844 225.76953 898.57031 C 225.76953 900.73698 225.39453 902.29427 224.64453 903.24219 C 224.02474 904.02344 223.16016 904.41406 222.05078 904.41406 C 220.9362 904.41406 220.03776 903.98698 219.35547 903.13281 C 218.67318 902.27344 218.33203 900.74479 218.33203 898.54688 C 218.33203 896.39063 218.70703 894.83854 219.45703 893.89062 C 220.07682 893.10938 220.94141 892.71875 222.05078 892.71875 z M 171.18359 892.76562 L 173.88672 892.76562 L 176.18359 896.44531 L 178.43359 892.76562 L 181.11328 892.76562 L 177.55078 898.32812 L 181.46484 904.21875 L 178.67578 904.21875 L 176.13672 900.25781 L 173.58984 904.21875 L 170.81641 904.21875 L 174.73047 898.24219 L 171.18359 892.76562 z M 182.71484 892.85938 L 185.02734 892.85938 L 185.02734 902.28906 L 190.77734 902.28906 L 190.77734 904.21875 L 182.71484 904.21875 L 182.71484 892.85938 z M 222.05078 894.53906 C 221.78516 894.53906 221.54818 894.625 221.33984 894.79688 C 221.13151 894.96354 220.97005 895.26563 220.85547 895.70312 C 220.70443 896.27083 220.62891 897.22656 220.62891 898.57031 C 220.62891 899.91406 220.69661 900.83854 220.83203 901.34375 C 220.96745 901.84375 221.13672 902.17708 221.33984 902.34375 C 221.54818 902.51042 221.78516 902.59375 222.05078 902.59375 C 222.31641 902.59375 222.55339 902.51042 222.76172 902.34375 C 222.97005 902.17188 223.13151 901.86719 223.24609 901.42969 C 223.39714 900.86719 223.47266 899.91406 223.47266 898.57031 C 223.47266 897.22656 223.40495 896.30469 223.26953 895.80469 C 223.13411 895.29948 222.96224 894.96354 222.75391 894.79688 C 222.55078 894.625 222.31641 894.53906 222.05078 894.53906 z "
+       transform="scale(0.26458333)" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
+       x="3.7443376"
+       y="9.8728752"
+       id="text2852"><tspan
+         sodipodi:role="line"
+         id="tspan2850"
+         style="stroke-width:0.264583"
+         x="3.7443376"
+         y="9.8728752">1.5 ratio (width / height)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
+       x="102.88092"
+       y="194.78261"
+       id="text50163"><tspan
+         sodipodi:role="line"
+         id="tspan50161"
+         style="stroke-width:0.264583"
+         x="102.88092"
+         y="194.78261">Wrist Size: 17-18cm</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="102.88092"
+         y="200.07426"
+         id="tspan70063">Bracelet: Large (195mm Circ)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
+       x="102.88092"
+       y="131.28255"
+       id="text53681"><tspan
+         sodipodi:role="line"
+         id="tspan53679"
+         style="stroke-width:0.264583"
+         x="102.88092"
+         y="131.28255">Wrist Size: 15-16cm</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="102.88092"
+         y="136.5742"
+         id="tspan66641">Bracelet: Medium (178mm Circ)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
+       x="102.88092"
+       y="88.949226"
+       id="text55845"><tspan
+         sodipodi:role="line"
+         id="tspan55843"
+         style="stroke-width:0.264583"
+         x="102.88092"
+         y="88.949226">Wrist Size: 13-14cm</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="102.88092"
+         y="94.240891"
+         id="tspan60237">Bracelet: Small (160mm Circ)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
+       x="102.88092"
+       y="263.57431"
+       id="text57303"><tspan
+         sodipodi:role="line"
+         id="tspan57301"
+         style="stroke-width:0.264583"
+         x="102.88092"
+         y="263.57431">Wrist Size: 19-20cm</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="102.88092"
+         y="268.86597"
+         id="tspan73187">Bracelet: Extra Large (210mm Circ)</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path55841-3"
+       sodipodi:type="arc"
+       sodipodi:cx="42.489372"
+       sodipodi:cy="81.111328"
+       sodipodi:rx="29.028118"
+       sodipodi:ry="20.393475"
+       sodipodi:start="2.0943951"
+       sodipodi:end="1.0471976"
+       sodipodi:arc-type="arc"
+       sodipodi:open="true"
+       d="M 27.975313,98.772595 A 29.028118,20.393475 0 0 1 14.450363,75.833108 29.028118,20.393475 0 0 1 42.489372,60.717854 29.028118,20.393475 0 0 1 70.528382,75.833109 29.028118,20.393475 0 0 1 57.00343,98.772596" />
+    <path
+       id="path1658"
+       style="stroke-width:15.118;stroke-linecap:round;stroke-linejoin:round"
+       d="m 38.099063,291.66575 a 5,5 0 0 1 -5,5 5,5 0 0 1 -5,-5 5,5 0 0 1 5,-5 5,5 0 0 1 5,5 z" />
+    <path
+       id="path1857"
+       style="stroke-width:15.118;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 76.941715,291.66575 a 5.0000001,5.0000001 0 0 1 -4.999999,5 5.0000001,5.0000001 0 0 1 -5.000001,-5 5.0000001,5.0000001 0 0 1 5.000001,-5 5.0000001,5.0000001 0 0 1 4.999999,5 z" />
+    <path
+       id="path1626"
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+       d="m 33.128714,291.66575 a 38.673046,27.169443 0 0 1 -18.018771,-30.5614 38.673046,27.169443 0 0 1 37.355294,-20.13747 38.673046,27.169443 0 0 1 37.355294,20.13747 38.673046,27.169443 0 0 1 -18.018773,30.5614" />
+    <path
+       id="path938"
+       style="fill:none;stroke:#000000;stroke-width:1.85279;stroke-linecap:round;stroke-linejoin:round"
+       d="M 31.632056,219.0687 A 35.826483,25.169613 0 0 1 14.939571,190.75679 35.826483,25.169613 0 0 1 49.545296,172.10158 35.826483,25.169613 0 0 1 84.151023,190.75679 35.826483,25.169613 0 0 1 67.458538,219.0687" />
+    <path
+       id="path3484"
+       style="stroke-width:7.559;stroke-linecap:round;stroke-linejoin:round"
+       d="m 34.107184,219.06869 a 2.5,2.5 0 0 1 -2.5,2.5 2.5,2.5 0 0 1 -2.5,-2.5 2.5,2.5 0 0 1 2.5,-2.5 2.5,2.5 0 0 1 2.5,2.5 z" />
+    <path
+       id="path3486"
+       style="stroke-width:7.559;stroke-linecap:round;stroke-linejoin:round"
+       d="m 69.948509,219.0687 a 2.5,2.5 0 0 1 -2.5,2.5 2.5,2.5 0 0 1 -2.5,-2.5 2.5,2.5 0 0 1 2.5,-2.5 2.5,2.5 0 0 1 2.5,2.5 z" />
+    <path
+       id="path3648"
+       style="stroke-width:7.559;stroke-linecap:round;stroke-linejoin:round"
+       d="m 32.454297,156.62436 a 2.5,2.5 0 0 1 -2.5,2.5 2.5,2.5 0 0 1 -2.5,-2.5 2.5,2.5 0 0 1 2.5,-2.5 2.5,2.5 0 0 1 2.5,2.5 z" />
+    <path
+       id="path3650"
+       style="stroke-width:7.559;stroke-linecap:round;stroke-linejoin:round"
+       d="m 65.105041,156.62436 a 2.5,2.5 0 0 1 -2.5,2.5 2.5,2.5 0 0 1 -2.5,-2.5 2.5,2.5 0 0 1 2.5,-2.5 2.5,2.5 0 0 1 2.5,2.5 z" />
+    <path
+       id="path3652"
+       style="stroke-width:7.559;stroke-linecap:round;stroke-linejoin:round"
+       d="m 30.550567,98.772581 a 2.5,2.5 0 0 1 -2.5,2.499999 2.5,2.5 0 0 1 -2.5,-2.499999 2.5,2.5 0 0 1 2.5,-2.5 2.5,2.5 0 0 1 2.5,2.5 z" />
+    <path
+       id="path3654"
+       style="stroke-width:7.559;stroke-linecap:round;stroke-linejoin:round"
+       d="m 59.62161,98.772581 a 2.5,2.5 0 0 1 -2.5,2.499999 2.5,2.5 0 0 1 -2.5,-2.499999 2.5,2.5 0 0 1 2.5,-2.5 2.5,2.5 0 0 1 2.5,2.5 z" />
+    <path
+       id="path3740"
+       style="fill:none;stroke:#000000;stroke-width:1.68892;stroke-linecap:round;stroke-linejoin:round"
+       d="M 29.966033,156.62436 A 32.657798,22.943479 0 0 1 14.749919,130.81652 32.657798,22.943479 0 0 1 46.294931,113.81128 32.657798,22.943479 0 0 1 77.839943,130.81652 32.657798,22.943479 0 0 1 62.623831,156.62436" />
+  </g>
+</svg>
