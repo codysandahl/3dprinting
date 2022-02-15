@@ -2,11 +2,25 @@
 
 These are for determining your bracelet size (kind of like trying on different rings to determine your size). I used [Pandora's Sizing Guide](https://us.pandora.net/en/size-guide/bracelets.html) as a starting point for the models.
 
-## Pre-Sized STLs (with opening at bottom for wrist)
-- [Small](stls/bracelet_S.stl): 60mm width x 40 height
-- [Medium](stls/bracelet_M.stl): 67mm width x 50 height
-- [Large](stls/bracelet_L.stl): 74mm width x 55 height
-- [Extra Large](stls/bracelet_XL.stl): 80mm width x 60 height
+## Pre-Sized Downloads (OPEN design = opening at bottom for wrist)
+- **Small**: 60mm width x 40 height
+  - [Small STL](stls/bracelet_open_S.stl) || [Small SVG](svgs/bracelet_open_S.svg)
+- **Medium**: 67mm width x 50 height
+  - [Medium STL](stls/bracelet_open_M.stl) || [Medium SVG](svgs/bracelet_open_M.stl)
+- **Large**: 74mm width x 55 height
+  - [Large STL](stls/bracelet_open_L.stl) || [Large SVG](svgs/bracelet_open_L.stl)
+- **Extra Large**: 80mm width x 60 height
+  - [Extra Large STL](stls/bracelet_open_XL.stl) || [Extra Large SVG](svgs/bracelet_open_XL.stl)
+
+## Pre-Sized Downloads (CLOSED design = fully-enclosed oval)
+- **Small**: 73mm width x 55mm height
+  - [Small STL](stls/bracelet_closed_S.stl) || [Small SVG](svgs/bracelet_closed_S.stl)
+- **Medium**: 80mm width x 60mm height
+  - [Medium STL](stls/bracelet_closed_M.stl) || [Medium SVG](svgs/bracelet_closed_M.stl)
+- **Large**: 88mm width x 66mm height
+  - [Large STL](stls/bracelet_closed_L.stl) || [Large SVG](svgs/bracelet_closed_L.stl)
+- **Extra Large**: 95mm width x 71mm height
+  - [Extra Large STL](stls/bracelet_closed_XL.stl) || [Extra Large SVG](svgs/bracelet_closed_XL.stl)
 
 ## How to Customize
 1. Download and install [OpenSCAD](https://openscad.org/downloads.html)

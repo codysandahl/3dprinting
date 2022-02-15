@@ -78,7 +78,7 @@ module braceletLabel() {
         // cut out size text
         translate([labelWidth/2, 2, braceletDepth/2])
           linear_extrude(braceletDepth)
-            text(str(braceletWidth, "x", braceletDepth), size=labelFontSize, halign="center");
+            text(str(braceletWidth, "x", braceletHeight), size=labelFontSize, halign="center");
       }
     }
   }
