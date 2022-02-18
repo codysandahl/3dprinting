@@ -6,21 +6,21 @@ These are for determining your bracelet size (kind of like trying on different r
 - **Small**: 60mm width x 40 height
   - [Small STL](stls/bracelet_open_S.stl) || [Small SVG](svgs/bracelet_open_S.svg)
 - **Medium**: 67mm width x 50 height
-  - [Medium STL](stls/bracelet_open_M.stl) || [Medium SVG](svgs/bracelet_open_M.stl)
+  - [Medium STL](stls/bracelet_open_M.stl) || [Medium SVG](svgs/bracelet_open_M.svg)
 - **Large**: 74mm width x 55 height
-  - [Large STL](stls/bracelet_open_L.stl) || [Large SVG](svgs/bracelet_open_L.stl)
+  - [Large STL](stls/bracelet_open_L.stl) || [Large SVG](svgs/bracelet_open_L.svg)
 - **Extra Large**: 80mm width x 60 height
-  - [Extra Large STL](stls/bracelet_open_XL.stl) || [Extra Large SVG](svgs/bracelet_open_XL.stl)
+  - [Extra Large STL](stls/bracelet_open_XL.stl) || [Extra Large SVG](svgs/bracelet_open_XL.svg)
 
 ## Pre-Sized Downloads (CLOSED design = fully-enclosed oval)
 - **Small**: 73mm width x 55mm height
-  - [Small STL](stls/bracelet_closed_S.stl) || [Small SVG](svgs/bracelet_closed_S.stl)
+  - [Small STL](stls/bracelet_closed_S.stl) || [Small SVG](svgs/bracelet_closed_S.svg)
 - **Medium**: 80mm width x 60mm height
-  - [Medium STL](stls/bracelet_closed_M.stl) || [Medium SVG](svgs/bracelet_closed_M.stl)
+  - [Medium STL](stls/bracelet_closed_M.stl) || [Medium SVG](svgs/bracelet_closed_M.svg)
 - **Large**: 88mm width x 66mm height
-  - [Large STL](stls/bracelet_closed_L.stl) || [Large SVG](svgs/bracelet_closed_L.stl)
+  - [Large STL](stls/bracelet_closed_L.stl) || [Large SVG](svgs/bracelet_closed_L.svg)
 - **Extra Large**: 95mm width x 71mm height
-  - [Extra Large STL](stls/bracelet_closed_XL.stl) || [Extra Large SVG](svgs/bracelet_closed_XL.stl)
+  - [Extra Large STL](stls/bracelet_closed_XL.stl) || [Extra Large SVG](svgs/bracelet_closed_XL.svg)
 
 ## How to Customize
 1. Download and install [OpenSCAD](https://openscad.org/downloads.html)
